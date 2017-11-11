@@ -25,7 +25,7 @@ SECRET_KEY = 'nqfmhc$$@)z%so1dsim_h3w2+d^8&=bj=j#v%lahg#zoa@b3ux'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<Gabriela>.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1','gabriela.pythonanywhere.com']
 
 # Application definition
 
